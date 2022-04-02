@@ -1,0 +1,22 @@
+.example-card {
+    max-width: 400px;
+    background-color: black;
+    font-family: 'Antonio', sans-serif;
+  }
+  
+  .example-header-image {
+    background-image: url('https://previews.123rf.com/images/chereliss/chereliss1801/chereliss180100046/94652874-bot%C3%B3n-de-play-icono-de-degradado-plana-se%C3%B1al-aislada-para-la-web-ilustraci%C3%B3n-vectorial.jpg');
+    background-size: cover;
+  }
+
+  .space{
+      display: flex;
+      justify-content: center;
+      margin-top: 50px;
+  }
+
+  .netflix{
+      text-align: center;
+  }
+
+ 

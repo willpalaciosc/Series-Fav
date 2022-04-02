@@ -1,0 +1,22 @@
+mat-expansion-panel-header{
+    background-color: black;
+}
+
+mat-expansion-panel{
+    background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
+}
+
+mat-panel-title{
+    font-family: 'Antonio', sans-serif;
+}
+
+mat-panel-description{
+    font-family: 'Antonio', sans-serif;
+}
+
+.acordeon{
+    justify-content: center;
+    width: 70%;
+    margin-left: 15%;
+
+}
